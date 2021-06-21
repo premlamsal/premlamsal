@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @premlamsal
 - 👀 I’m interested in developing Web Application
-- 🌱 I’m currently learning VueJs, Laravel, Tailwind CSS
+- 🌱 I’m currently learning VueJs, Laravel, Tailwind CSS & Flutter
 - 💞️ I’m looking to collaborate on VueJs Or Laravel Projects
 - 📫 How to reach me : Contact : premlamsal2@gmail.com
 
