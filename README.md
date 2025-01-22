@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @premlamsal
 - 👀 I’m interested in developing Web Application
-- 🌱 I’m currently developing applications using VueJs, Laravel, Tailwind CSS & Flutter
-- 💞️ I’m looking to collaborate on VueJs Or Laravel Projects
+- 🌱 I’m currently developing applications using VueJs, Laravel, Tailwind CSS & React Native
+- 💞️ I’m looking to collaborate on VueJs Or Laravel Projects as well React Native
 - 📫 How to reach me : Contact: premlamsal2@gmail.com
 - 📫 How to reach me : Whatsapp : +977 9868616747
 
